@@ -5,7 +5,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{79BD317C-E24A-451D-B3FF-CDA26EB8F4C1}</ProjectGuid>
-    <OutputType>Library</OutputType>
+    <OutputType>Exe</OutputType>
     <RootNamespace>AZNumbers</RootNamespace>
     <AssemblyName>AZNumbers</AssemblyName>
     <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
